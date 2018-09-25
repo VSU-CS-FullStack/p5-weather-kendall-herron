@@ -7,6 +7,7 @@ import { composeWithDevTools } from "redux-devtools-extension";
 import { Provider } from "react-redux";
 
 import './index.css';
+import ReduxPromise from 'redux-promise';
 
 import App from "./components/app";
 import rootReducer from "./reducers";
@@ -16,8 +17,7 @@ import'bootstrap/dist/css/bootstrap.min.css';
 const store = createStore(
 	rootReducer,
 	{},
-	composeWithDevTools(applyMiddleware())
-);
+	applyMiddleware(ReduxPromise));
 
 
 ReactDOM.render(
