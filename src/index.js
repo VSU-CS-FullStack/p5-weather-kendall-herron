@@ -17,7 +17,13 @@ import'bootstrap/dist/css/bootstrap.min.css';
 const store = createStore(
 	rootReducer,
 	{},
-	applyMiddleware(ReduxPromise));
+	composeWithDevTools(applyMiddleware(ReduxPromise)));
+
+// const store = createStore(
+// 	rootReducer,
+// 	{},
+// 	composeWithDevTools(applyMiddleware())
+// );
 
 
 ReactDOM.render(
