@@ -1,3 +1,9 @@
+commit 82cb5c7d916f42dde4b3e0db158d78e4504959ea
+Author: kendallherron <ktherron@valdosta.edu>
+Date:   Thu Sep 27 09:54:27 2018 -0400
+
+    Final product
+
 commit f8c9d277abb033f2cc5420d71b22c46fe72f931d
 Author: kendallherron <ktherron@valdosta.edu>
 Date:   Wed Sep 26 23:01:02 2018 -0400
