@@ -1,0 +1,71 @@
+commit f8c9d277abb033f2cc5420d71b22c46fe72f931d
+Author: kendallherron <ktherron@valdosta.edu>
+Date:   Wed Sep 26 23:01:02 2018 -0400
+
+    Final product
+
+commit 816e48f905a90bcbd675e5f4743dc432ef0e96f0
+Author: kendallherron <ktherron@valdosta.edu>
+Date:   Wed Sep 26 22:22:57 2018 -0400
+
+    Added numerical indications
+
+commit d92dfa8272a35a1b385c47110a29b912f4b797e1
+Author: kendallherron <ktherron@valdosta.edu>
+Date:   Wed Sep 26 22:09:48 2018 -0400
+
+    created chart.js
+
+commit 4b6e6ef0b8ef8c280542f073b50f913cc458ca14
+Author: kendallherron <ktherron@valdosta.edu>
+Date:   Wed Sep 26 21:51:00 2018 -0400
+
+    Adding sparkline charts
+
+commit ade70a8a19adad094849eaa44f2f49afdb5b423e
+Author: kendallherron <ktherron@valdosta.edu>
+Date:   Wed Sep 26 20:02:00 2018 -0400
+
+    JSX element renderWeather
+
+commit afa3d6e225e9c1b73cc0ba46f952e27450e26b1f
+Author: kendallherron <ktherron@valdosta.edu>
+Date:   Wed Sep 26 19:44:03 2018 -0400
+
+    Avoiding state mutations in reducers
+
+commit 0bd9b8a6927d76c5f9231cc0446d0bf028b2a0cd
+Author: kendallherron <ktherron@valdosta.edu>
+Date:   Tue Sep 25 21:23:51 2018 -0400
+
+    Redux-Promise
+
+commit d0d3b572e1e545e84d83c9b59e2ca67593ac02b1
+Author: kendallherron <ktherron@valdosta.edu>
+Date:   Tue Sep 25 21:00:54 2018 -0400
+
+    Ajax requests without asynchronicity
+
+commit 12576c1d25211f9b7ccbaa32fe95f7384252d8ee
+Author: kendallherron <ktherron@valdosta.edu>
+Date:   Tue Sep 25 18:01:51 2018 -0400
+
+    Installed Middleware
+
+commit 37a4bb15406bd8190b64861daf3a723fcbf45fd4
+Author: kendallherron <ktherron@valdosta.edu>
+Date:   Tue Sep 25 13:31:26 2018 -0400
+
+    Set up React Components
+
+commit 5a03982529d6665f304ab452e785c3bb7bc9b67f
+Author: kendallherron <ktherron@valdosta.edu>
+Date:   Tue Sep 25 10:22:05 2018 -0400
+
+     Installed redux, react-redux, bootstrap, redux-devtools
+
+commit 9cfe6efef8d3965fbf2f6f7d8d84fa3937d38022
+Author: kendallherron <ktherron@valdosta.edu>
+Date:   Tue Sep 25 09:57:27 2018 -0400
+
+    created a new react app
