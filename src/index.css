@@ -33,3 +33,8 @@ td, th{
 	margin:20px 0px;
 }
 
+td:first-of-type > div {
+	height: 200px;
+	width: 250px;
+}
+
